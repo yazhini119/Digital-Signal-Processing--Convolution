@@ -19,7 +19,7 @@ Step 6: Plot the sequence with x-label and y-label with suitable title
 Step 7: Terminate the program.
 
 ## PROGRAM: 
-% D.MATHIYAZHAGAN 212223050028
+% YAZHINIS 212223050062
 clc; % clear screen
  clear all; % clear screen
  close all; % close all figure windows
